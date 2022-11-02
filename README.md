@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any website and mobile application project.**
 
-- 👨‍💻 All of my projects are available [here](github.com/ghasty003?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/ghasty003?tab=repositories)
 
 - 💬 Ask me about **MERN, TypeScript, Mobile development.**
 
