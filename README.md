@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ghasty003?tab=repositories)
 
-- 💬 Ask me about **MERN, TypeScript, Mobile development.**
+- 💬 Ask me about **MERN, TypeScript, Firebase, Mobile development.**
 
 - 📫 How to reach me **gbolahanajenikoko@gmail.com**
 
