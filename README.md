@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I’m Ajenikoko Gbolahan. I love being called Ghasty by the way :)</h1>
+<p align="center">I'm a Fullstack developer, focusing on Website and Mobile development.</p>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 <h3 align="center">A passionate Software engineer from Nigeria.</h3>
 
