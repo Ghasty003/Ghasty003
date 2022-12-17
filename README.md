@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I’m Ajenikoko Gbolahan. I love being called Ghasty by the way :)</h1>
-<p align="center">I'm a Fullstack developer, focusing on Website and Mobile development.</p>
+<h3 align="center">Hi 👋, I’m Ajenikoko Gbolahan. I prefer being called <q>Ghasty</q> by the way :) I'm a Fullstack developer, focusing on Website and Mobile development.</h3>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
-<h3 align="center">A passionate Software engineer from Nigeria.</h3>
+<p align="center">A passionate Software engineer from Nigeria.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghasty003&label=Profile%20views&color=0e75b6&style=flat" alt="ghasty003" /> </p>
 
@@ -20,8 +19,8 @@
 - 📫 How to reach me **gbolahanajenikoko@gmail.com**
 
 - ⚡ Fun fact:
-> - **I love learning new programming language :)**
-> - **I love contributing to open source projects**
+> - **I love learning new programming language 😇**
+> - **I love contributing to open source projects ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
