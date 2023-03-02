@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ghasty001" target="blank"><img src="https://img.shields.io/twitter/follow/ghasty001?logo=twitter&style=for-the-badge" alt="ghasty001" /></a> </p>
 
-- 🌱 I’m currently learning **Next js, Go.**
+- 🌱 I’m currently learning **Three js && Go.**
 
 - 👯 I’m looking to collaborate on **any website and mobile application project.**
 
