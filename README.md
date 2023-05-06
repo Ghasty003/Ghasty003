@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I’m Ajenikoko Gbolahan. I prefer being called <q>Ghasty</q> by the way :) I’m a Fullstack developer, focusing on Embedded systems, Website and Mobile development.</h3>
+<h3 align="center">Hi 👋, I’m Gbolahan Ajenikoko. I prefer being called <q>Ghasty</q> by the way :) I’m a Fullstack developer, focusing on Embedded systems, Website and Mobile development.</h3>
 
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 
