@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **gbolahanajenikoko@gmail.com**
 
-- ⚡ Fun fact: **My main interest includes Artificial intelligence and Embedded systems**
+- ⚡ Fun fact: **My main interest includes Artificial intelligence & Embedded systems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
