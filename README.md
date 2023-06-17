@@ -20,9 +20,7 @@
 
 - 📫 How to reach me **gbolahanajenikoko@gmail.com**
 
-- ⚡ Fun fact:
-> - **I love learning new programming language 😇**
-> - **I love contributing to open source projects ✨**
+- ⚡ Fun fact: **My main interest includes Artificial intelligence and Embedded systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
