@@ -1,18 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B2545,100:155E75&height=230&section=header&text=Gbolahan%20Ajenikoko&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Systems%20Engineering&descAlignY=60&descSize=17" />
+  <img
+    src="./assets/ghasty-animated-banner.gif"
+    alt="Gbolahan Ajenikoko — Software Engineer"
+    width="100%"
+  />
 
-### Hey there 👋, I'm Ghasty
+  <h3>Hey there 👋, I'm Gbolahan</h3>
 
-**Software Engineer | Computer Engineering | Systems Enthusiast**
+  <p><strong>Software Engineer | Computer Engineering | Systems Enthusiast</strong></p>
 
-*Building useful products, exploring complex systems, and understanding how software works beneath the surface.*
+  <p><em>Building useful products, exploring complex systems, and understanding how software works beneath the surface.</em></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghasty003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbolahanajenikoko@gmail.com)
-[![Repositories](https://img.shields.io/badge/My_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghasty003?tab=repositories)
+  <a href="https://github.com/ghasty003">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ghasty003&label=Profile%20Views&color=0891b2&style=flat-square)
+  <a href="mailto:gbolahanajenikoko@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ghasty003?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=ghasty003&label=Profile%20Views&color=0891b2&style=flat-square" />
 
 </div>
 
