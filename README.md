@@ -36,7 +36,7 @@
 
 I'm **Gbolahan Ajenikoko**, but you can call me **Ghasty**.
 
-I'm a software engineer and Computer Engineering student from Nigeria, passionate about building software and understanding the systems that power it.
+I'm a software engineer, passionate about building software and understanding the systems that power it.
 
 I specialize in **full-stack web and mobile development**, with growing interests in **system design, backend engineering, computer networking, distributed systems, and low-level programming**.
 
