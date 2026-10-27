@@ -64,7 +64,7 @@ I enjoy going beyond using frameworks to understand the engineering principles, 
 ### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,css,tailwind,redux,sass&theme=dark" />
 </p>
 
 **Also working with:**
