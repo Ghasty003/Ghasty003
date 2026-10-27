@@ -1,31 +1,291 @@
-<h3 align="center">Hi 👋, I’m Gbolahan Ajenikoko. I prefer being called <q>Ghasty</q> by the way :) I’m a Fullstack developer, focusing on AI, Embedded systems, Website and Mobile development.</h3>
+<div align="center">
 
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B2545,100:155E75&height=230&section=header&text=Gbolahan%20Ajenikoko&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Systems%20Engineering&descAlignY=60&descSize=17" />
 
-<p align="center">A passionate Software engineer from Nigeria.</p>
+### Hey there 👋, I'm Ghasty
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghasty003&label=Profile%20views&color=0e75b6&style=flat" alt="ghasty003" /> </p>
+**Software Engineer | Computer Engineering | Systems Enthusiast**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghasty003" alt="ghasty003" /></a> </p>
+*Building useful products, exploring complex systems, and understanding how software works beneath the surface.*
 
-- 🌱 I’m currently learning **C++.**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghasty003)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbolahanajenikoko@gmail.com)
+[![Repositories](https://img.shields.io/badge/My_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghasty003?tab=repositories)
 
-- 👯 I’m looking to collaborate on **any website and mobile application project.**
+![Profile Views](https://komarev.com/ghpvc/?username=ghasty003&label=Profile%20Views&color=0891b2&style=flat-square)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/ghasty003?tab=repositories)
+</div>
 
-- 💬 Ask me about **MERN, TypeScript, Firebase, Mobile development.**
+---
 
-- 📫 How to reach me **gbolahanajenikoko@gmail.com**
+## 👨‍💻 About Me
 
-- ⚡ Fun fact: **I have multiple tech skills but my main interest includes Artificial intelligence & Embedded systems.**
+I'm **Gbolahan Ajenikoko**, but you can call me **Ghasty**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+I'm a software engineer and Computer Engineering student from Nigeria, passionate about building software and understanding the systems that power it.
 
+I specialize in **full-stack web and mobile development**, with growing interests in **system design, backend engineering, computer networking, distributed systems, and low-level programming**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghasty003&show_icons=true&locale=en&layout=compact" alt="ghasty003" /></p>
+I enjoy going beyond using frameworks to understand the engineering principles, protocols, architectures, and infrastructure that make modern applications work.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghasty003&show_icons=true&locale=en" alt="ghasty003" /></p>
+- 🔭 Building scalable backend systems, web and mobile applications.
+- 🧠 Exploring **system design, distributed systems, and computer networking**.
+- ⚙️ Interested in **operating systems, infrastructure, developer tools, and embedded systems**.
+- 🌱 Deepening my knowledge of **C, C++, Java, and systems programming**.
+- 🤖 Fascinated by **Artificial Intelligence and Machine Learning**.
+- 🤝 Open to collaborating on interesting engineering projects.
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Node.js, Java, and backend architecture**.
+- 📫 Reach me at **gbolahanajenikoko@gmail.com**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghasty003&" alt="ghasty003" /></p>
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,python&theme=dark" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux,sass&theme=dark" />
+</p>
+
+**Also working with:**
+React Router • Responsive Design • State Management • UI Architecture
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase&theme=dark" />
+</p>
+
+**Technologies:**
+React Native • Expo • Expo Router • Redux Toolkit • Native Device APIs • Push Notifications
+
+### ⚙️ Backend Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs&theme=dark" />
+</p>
+
+**Technologies & Concepts:**
+
+`Spring Boot` `REST APIs` `gRPC` `JWT`
+`Authentication` `Authorization` `Microservices`
+`Background Jobs` `API Security`
+
+### 🗄️ Databases & Caching
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark" />
+</p>
+
+**Areas of Interest:**
+Database Design • Indexing • Query Optimization • Transactions • Caching • Data Modeling
+
+### ☁️ DevOps, Infrastructure & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,bash,git,github,githubactions,vercel&theme=dark" />
+</p>
+
+**Also working with:**
+
+DigitalOcean • Reverse Proxies • Load Balancing • CI/CD • Deployment Pipelines • Infrastructure Fundamentals
+
+### 🔧 Development Tools & Other Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,gradle,npm,arduino,tensorflow,unity&theme=dark" />
+</p>
+
+**Additional technologies:**
+Jest • D3.js • Chart.js • Webpack • Babel • Puppeteer
+
+---
+
+## 🧠 Engineering Knowledge & Interests
+
+My interests extend beyond application development into the systems and infrastructure that support modern software.
+
+| Engineering Area | Topics |
+|---|---|
+| 🏗️ **System Design** | Scalability, Load Balancing, Caching, Idempotency, Reliability, Multitenancy |
+| 🌐 **Computer Networking** | TCP/IP, UDP, DNS, HTTP/HTTPS, ARP, Subnetting, Network Discovery |
+| ⚡ **Distributed Systems** | Service Communication, Fault Tolerance, Message Queues, Consistency |
+| 🗄️ **Database Engineering** | Indexing, Transactions, Query Optimization, Data Modeling, Backups |
+| 🐳 **DevOps & Infrastructure** | Docker, Nginx, Reverse Proxies, CI/CD, Deployment, Monitoring |
+| 🔐 **Security** | Authentication, Authorization, JWT, API Security, TLS Fundamentals |
+| 💻 **Systems Programming** | C, Unix Processes, Memory Management, Operating Systems |
+| 🔌 **Embedded Systems** | Microcontrollers, Hardware/Software Integration, Computer Architecture |
+| 🤖 **Artificial Intelligence** | Machine Learning, AI Applications, Model Integration |
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I've built or worked on.
+
+### 🌐 Open-Source Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Lazy-Cookie](https://github.com/ghasty003/Lazy-Cookie) | Browser cookie management through a familiar storage-like API | JavaScript, TypeScript |
+| [expressify-cli](https://github.com/ghasty003/expressify-cli) | CLI tool for bootstrapping Express.js projects | Node.js, TypeScript |
+| [Hawky](https://github.com/ghasty003/Hawky) | Messaging application with voice and video calling features | MERN, TypeScript |
+
+### 🧪 Engineering Projects & Experiments
+
+<details>
+<summary><b>📚 Explore my larger engineering projects</b></summary>
+
+<br>
+
+**🔖 Sift — Bookmark Management Platform**
+
+A system for organizing and managing X/Twitter bookmarks.
+
+- Java Spring Boot backend
+- PostgreSQL database
+- React web dashboard
+- Chrome browser extension
+- iOS Shortcut integration
+- Node.js scraping service
+- gRPC communication
+
+**🚚 ParcelForge — Multi-Tenant Logistics Platform**
+
+A logistics SaaS platform exploring complex business and backend architecture.
+
+- Multi-tenant application architecture
+- Spring Boot and PostgreSQL
+- Redis integration
+- Warehouse and shipment management
+- Driver and vehicle management
+- Route planning and dispatch systems
+
+**🌐 NetworkScanner — Network Discovery Tool**
+
+A TypeScript-based experiment for understanding local computer networks.
+
+- Network interface discovery
+- IPv4 subnet calculations
+- ARP-based device discovery
+- Local network monitoring concepts
+
+**🧪 Veriq — System Design Testing Tool**
+
+An engineering project focused on experimenting with and testing system design principles.
+
+- Backend performance testing
+- Reliability experiments
+- Idempotency testing
+- Scalability and architectural behavior
+
+**💻 Unix Shell — Systems Programming**
+
+A minimal Unix-style shell implemented in C.
+
+- Command parsing
+- Process creation with `fork()`
+- Program execution using `execvp()`
+- Process synchronization
+- Dynamic memory management
+
+*Some projects are experimental, in development, or maintained in private repositories.*
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ghasty003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghasty003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=ghasty003&theme=tokyonight&hide_border=true&timezone=Africa%2FLagos" alt="GitHub Contribution Streak" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghasty003&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ghasty003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
+
+</div>
+
+---
+
+## 🌱 What I'm Currently Exploring
+
+```text
+Software Engineering
+│
+├── Backend & Distributed Systems
+│   ├── System Design
+│   ├── Scalability & Reliability
+│   ├── Database Internals
+│   └── Microservices Architecture
+│
+├── Computer Networking
+│   ├── TCP/IP & Network Protocols
+│   ├── Network Programming
+│   ├── Network Security
+│   └── Infrastructure
+│
+├── Low-Level Engineering
+│   ├── C & C++
+│   ├── Operating Systems
+│   ├── Memory Management
+│   └── Embedded Systems
+│
+└── Artificial Intelligence
+    ├── Machine Learning
+    ├── AI Applications
+    └── Intelligent Systems
+```
+
+---
+
+<div align="center">
+
+### 💡 My Engineering Philosophy
+
+*"Don't just learn how to use a technology. Understand why it works, how it works, and what happens when it fails."*
+
+<br>
+
+**Interested in building something together?**
+
+I'm always open to interesting ideas, collaborations, and engineering discussions.
+
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbolahanajenikoko@gmail.com)
+
+<br>
+
+**Thanks for visiting! 👋**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B2545,100:155E75&height=110&section=footer" />
+
+</div>
